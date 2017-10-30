@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ObjectMapperDemo/ViewController.swift"
+            timestampString = "511364047.978397"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "callEME()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ObjectMapperDemo.ViewController.(callEME () -&gt; ()).(closure #1)"
+                  moduleName = "ObjectMapperDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/farhanitsolution/Desktop/My/ObjectMapperDemo/ObjectMapperDemo/ViewController.swift"
+                  timestampString = "514979345.221494"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ObjectMapperDemo.ViewController.(callEME () -&gt; ()).(closure #1)"
+                  moduleName = "ObjectMapperDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/farhanitsolution/Desktop/My/ObjectMapperDemo/ObjectMapperDemo/ViewController.swift"
+                  timestampString = "514979345.223527"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "73">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
